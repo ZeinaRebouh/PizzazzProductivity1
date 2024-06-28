@@ -1,17 +1,18 @@
 //
-//  PizzazzProductivity1App.swift
+//  ToDoApp.swift
 //  PizzazzProductivity1
 //
 //  Created by Scholar on 6/28/24.
 //
 
 import SwiftUI
+import SwiftData
 
-@main
-struct PizzazzProductivity1App: App {
+
+struct ToDoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ToDoContentView()
                 .modelContainer(for: ToDoItem.self)
         }
     }

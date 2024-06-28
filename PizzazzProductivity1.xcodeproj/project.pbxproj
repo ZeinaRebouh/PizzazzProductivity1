@@ -11,6 +11,18 @@
 		BD8F60942C2F221200C6D08C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60932C2F221200C6D08C /* ContentView.swift */; };
 		BD8F60962C2F221400C6D08C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD8F60952C2F221400C6D08C /* Assets.xcassets */; };
 		BD8F60992C2F221400C6D08C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD8F60982C2F221400C6D08C /* Preview Assets.xcassets */; };
+		BD8F60A02C2F22FB00C6D08C /* Lazy1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F609F2C2F22FB00C6D08C /* Lazy1.swift */; };
+		BD8F60A22C2F235700C6D08C /* LazyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60A12C2F235700C6D08C /* LazyButton.swift */; };
+		BD8F60A42C2F23B800C6D08C /* Lazy2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60A32C2F23B800C6D08C /* Lazy2.swift */; };
+		BD8F60A62C2F23F300C6D08C /* Lazy3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60A52C2F23F300C6D08C /* Lazy3.swift */; };
+		BD8F60A82C2F241A00C6D08C /* AboutToBegin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60A72C2F241A00C6D08C /* AboutToBegin.swift */; };
+		BD8F60AA2C2F244800C6D08C /* IDKWTSButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60A92C2F244800C6D08C /* IDKWTSButton.swift */; };
+		BD8F60AC2C2F24B500C6D08C /* ToDoContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60AB2C2F24B500C6D08C /* ToDoContentView.swift */; };
+		BD8F60AE2C2F24E800C6D08C /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60AD2C2F24E800C6D08C /* ToDoItem.swift */; };
+		BD8F60B02C2F252C00C6D08C /* QuotesContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60AF2C2F252C00C6D08C /* QuotesContentView.swift */; };
+		BD8F60B22C2F25A500C6D08C /* ToDoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60B12C2F25A500C6D08C /* ToDoApp.swift */; };
+		BD8F60B42C2F25CF00C6D08C /* NewToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60B32C2F25CF00C6D08C /* NewToDoView.swift */; };
+		BD8F60B62C2F25F600C6D08C /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F60B52C2F25F600C6D08C /* HomeScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		BD8F60932C2F221200C6D08C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD8F60952C2F221400C6D08C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD8F60982C2F221400C6D08C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD8F609F2C2F22FB00C6D08C /* Lazy1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lazy1.swift; sourceTree = "<group>"; };
+		BD8F60A12C2F235700C6D08C /* LazyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyButton.swift; sourceTree = "<group>"; };
+		BD8F60A32C2F23B800C6D08C /* Lazy2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lazy2.swift; sourceTree = "<group>"; };
+		BD8F60A52C2F23F300C6D08C /* Lazy3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lazy3.swift; sourceTree = "<group>"; };
+		BD8F60A72C2F241A00C6D08C /* AboutToBegin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutToBegin.swift; sourceTree = "<group>"; };
+		BD8F60A92C2F244800C6D08C /* IDKWTSButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IDKWTSButton.swift; sourceTree = "<group>"; };
+		BD8F60AB2C2F24B500C6D08C /* ToDoContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoContentView.swift; sourceTree = "<group>"; };
+		BD8F60AD2C2F24E800C6D08C /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
+		BD8F60AF2C2F252C00C6D08C /* QuotesContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesContentView.swift; sourceTree = "<group>"; };
+		BD8F60B12C2F25A500C6D08C /* ToDoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoApp.swift; sourceTree = "<group>"; };
+		BD8F60B32C2F25CF00C6D08C /* NewToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewToDoView.swift; sourceTree = "<group>"; };
+		BD8F60B52C2F25F600C6D08C /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +77,18 @@
 			children = (
 				BD8F60912C2F221200C6D08C /* PizzazzProductivity1App.swift */,
 				BD8F60932C2F221200C6D08C /* ContentView.swift */,
+				BD8F60AB2C2F24B500C6D08C /* ToDoContentView.swift */,
+				BD8F60AD2C2F24E800C6D08C /* ToDoItem.swift */,
+				BD8F60AF2C2F252C00C6D08C /* QuotesContentView.swift */,
+				BD8F60B12C2F25A500C6D08C /* ToDoApp.swift */,
+				BD8F60B32C2F25CF00C6D08C /* NewToDoView.swift */,
+				BD8F60B52C2F25F600C6D08C /* HomeScreen.swift */,
+				BD8F60A12C2F235700C6D08C /* LazyButton.swift */,
+				BD8F60A32C2F23B800C6D08C /* Lazy2.swift */,
+				BD8F60A52C2F23F300C6D08C /* Lazy3.swift */,
+				BD8F60A72C2F241A00C6D08C /* AboutToBegin.swift */,
+				BD8F60A92C2F244800C6D08C /* IDKWTSButton.swift */,
+				BD8F609F2C2F22FB00C6D08C /* Lazy1.swift */,
 				BD8F60952C2F221400C6D08C /* Assets.xcassets */,
 				BD8F60972C2F221400C6D08C /* Preview Content */,
 			);
@@ -137,8 +173,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD8F60A42C2F23B800C6D08C /* Lazy2.swift in Sources */,
+				BD8F60AC2C2F24B500C6D08C /* ToDoContentView.swift in Sources */,
+				BD8F60B62C2F25F600C6D08C /* HomeScreen.swift in Sources */,
+				BD8F60AE2C2F24E800C6D08C /* ToDoItem.swift in Sources */,
+				BD8F60B22C2F25A500C6D08C /* ToDoApp.swift in Sources */,
+				BD8F60A02C2F22FB00C6D08C /* Lazy1.swift in Sources */,
 				BD8F60942C2F221200C6D08C /* ContentView.swift in Sources */,
+				BD8F60A62C2F23F300C6D08C /* Lazy3.swift in Sources */,
+				BD8F60B02C2F252C00C6D08C /* QuotesContentView.swift in Sources */,
+				BD8F60B42C2F25CF00C6D08C /* NewToDoView.swift in Sources */,
 				BD8F60922C2F221200C6D08C /* PizzazzProductivity1App.swift in Sources */,
+				BD8F60A22C2F235700C6D08C /* LazyButton.swift in Sources */,
+				BD8F60A82C2F241A00C6D08C /* AboutToBegin.swift in Sources */,
+				BD8F60AA2C2F244800C6D08C /* IDKWTSButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
